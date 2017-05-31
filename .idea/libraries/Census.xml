@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Census">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/Census/Census.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
